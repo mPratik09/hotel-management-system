@@ -1,0 +1,13 @@
+package com.hms.room;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HmsRoomServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HmsRoomServiceApplication.class, args);
+	}
+
+}
